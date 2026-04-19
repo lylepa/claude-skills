@@ -12,4 +12,4 @@ Custom skills for Claude Code (VS Code plugin).
 
 | Skill | Description |
 |---|---|
-| [nav2-bt-plugin](nav2-bt-plugin.skill) | Scaffolds custom Nav2 BehaviorTree.CPP plugins with tests, CI, and XML validation |
+| (nav2-bt-plugin.skill) | Scaffolds custom Nav2 BehaviorTree.CPP plugins with tests, CI, and XML validation |
